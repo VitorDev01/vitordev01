@@ -10,7 +10,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="200px" align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/VitorDev01/sobre-min/main/vitor.png">
+  <img height="300px" align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/VitorDev01/sobre-min/main/vitor.png">
 </div>
 
   ##

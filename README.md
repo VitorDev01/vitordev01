@@ -1,4 +1,4 @@
-## Olá! Sou Vitor Oliveira, Estudante De Programação Frond End!!!
+## Hi!  I'm Vitor Oliveira, Frond End Programming Student!!!
 
 <div align="center">
   <a href="https://vitordev01.github.io/sobre-min/">

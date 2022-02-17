@@ -1,7 +1,7 @@
 ## Hi!  I'm Vitor Oliveira, Frond End Programming Student!!!
 
 <div align="center">
-  <a href="https://vitordev01.github.io/projeto-sobremin/">
+  <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordev01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordev01&layout=compact&langs_count=7&theme=dark"/>
 </div>

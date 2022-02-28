@@ -1,4 +1,4 @@
-## Hi!  I'm Vitor Oliveira, Frond End Programming Student!!!
+## 👨🏻‍💻 ☕ Hi! I'm Vitor Oliveira, 
 
 <div align="center">
   <a href="">

@@ -1,4 +1,4 @@
-## 👨🏻‍💻 ☕ Hi! I'm Vitor Oliveira Front End developer Student.
+## 👨🏻‍💻 ☕ Hi! I'm Vitor Oliveira Front End developer.
 
 <div align="center">
   <a href="">

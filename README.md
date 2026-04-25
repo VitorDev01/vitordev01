@@ -1,2 +1,2 @@
-## 👨🏻‍💻 ☕ Hi! I'm detective thursday Front End developer.
+## 👨🏻‍💻 ☕ Hi! I'm Front End developer and other things.....
 

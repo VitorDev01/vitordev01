@@ -1,2 +1,2 @@
-## 👨🏻‍💻 ☕ Hi! I'm Front End developer and other things.....
+## 👨🏻‍💻 ☕ Hi! I'm Front End developer!
 
